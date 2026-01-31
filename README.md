@@ -2,7 +2,7 @@
 
 **Step 1: Clone the Repository**
 ```bash
-git clone 
+git clone https://github.com/ayan-ansa/task-management-app.git
 cd Task-Mangement
 ```
 **Step 2: Backend Setup**
